@@ -1,0 +1,1 @@
+# namemini.csv
